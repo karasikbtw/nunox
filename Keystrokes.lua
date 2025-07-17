@@ -1,6 +1,7 @@
 --keystrokes mod for ROBLOX by greenghost110
 
 local gui = Instance.new("ScreenGui")
+gui.Name = "KeystrokeGui"
 gui.Parent = game.Players.LocalPlayer.PlayerGui
 
 local labels = {}
