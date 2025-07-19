@@ -115,3 +115,4 @@ end)
 game:GetService("RunService").Heartbeat:Connect(function()
 	updateCPSLabels()
 end)
+return gui
